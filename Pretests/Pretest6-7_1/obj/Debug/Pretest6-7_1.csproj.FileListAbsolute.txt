@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\Pretests6-7\Pretests\Pretest6-7_1\bin\Debug\Pretest6-7_1.exe.config
+C:\Users\jpscott\Desktop\Pretests6-7\Pretests\Pretest6-7_1\bin\Debug\Pretest6-7_1.exe
+C:\Users\jpscott\Desktop\Pretests6-7\Pretests\Pretest6-7_1\bin\Debug\Pretest6-7_1.pdb
+C:\Users\jpscott\Desktop\Pretests6-7\Pretests\Pretest6-7_1\obj\Debug\Pretest6-7_1.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Pretests6-7\Pretests\Pretest6-7_1\obj\Debug\Pretest6_7_1.frmTemperatureConverter.resources
+C:\Users\jpscott\Desktop\Pretests6-7\Pretests\Pretest6-7_1\obj\Debug\Pretest6_7_1.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Pretests6-7\Pretests\Pretest6-7_1\obj\Debug\Pretest6-7_1.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Pretests6-7\Pretests\Pretest6-7_1\obj\Debug\Pretest6-7_1.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Pretests6-7\Pretests\Pretest6-7_1\obj\Debug\Pretest6-7_1.exe
+C:\Users\jpscott\Desktop\Pretests6-7\Pretests\Pretest6-7_1\obj\Debug\Pretest6-7_1.pdb
